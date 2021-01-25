@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_g_dh4_cntct_ctr.cc_task_user" name="x_g_dh4_cntct_ctr.cc_task_user">5a32eb851b35ec10347043f1f54bcbb0</contains>
+        <role display_value="x_g_dh4_cntct_ctr.contact_center_service_request_user" name="x_g_dh4_cntct_ctr.contact_center_service_request_user">4657f0f01bf1e810347043f1f54bcb7f</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-18 01:45:36</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>95e254d11b3dec10347043f1f54bcb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_g_dh4_cntct_ctr.cc_task_user.x_g_dh4_cntct_ctr.contact_center_service_request_user</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_user_role_contains_95e254d11b3dec10347043f1f54bcb4f</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-18 01:45:36</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

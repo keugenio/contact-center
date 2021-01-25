@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Contact Center">5b191cf91b7d2450347043f1f54bcb97</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Create Request</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_g_dh4_cntct_ctr_contact_center_service_request</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>myIT?id=sc_cat_item&amp;sys_id=ea73bcb91b716450347043f1f54bcbaf&#13;
+</query>
+        <report/>
+        <roles>x_g_dh4_cntct_ctr.contact_center_service_request_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 18:41:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f9b409311b756450347043f1f54bcb4b</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Create Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_app_module_f9b409311b756450347043f1f54bcb4b</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-21 13:56:17</sys_updated_on>
+        <timeline_page/>
+        <title>Create Request</title>
+        <u_count_color/>
+        <u_count_filter/>
+        <u_refresh_interval/>
+        <u_show_count>false</u_show_count>
+        <u_sort_order/>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>_blank</window_name>
+    </sys_app_module>
+</record_update>

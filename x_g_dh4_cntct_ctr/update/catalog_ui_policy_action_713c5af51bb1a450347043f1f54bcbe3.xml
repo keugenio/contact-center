@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Contact Center Service Request">ea73bcb91b716450347043f1f54bcbaf</catalog_item>
+        <catalog_variable>IO:0373fcb11bb16450347043f1f54bcb2f</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-20 01:02:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>713c5af51bb1a450347043f1f54bcbe3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>desired_implementation_date</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_713c5af51bb1a450347043f1f54bcbe3</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-21 14:02:34</sys_updated_on>
+        <table/>
+        <ui_policy display_value="limit implementation date to today and forward">520c92f51bb1a450347043f1f54bcb16</ui_policy>
+        <variable>desired_implementation_date</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

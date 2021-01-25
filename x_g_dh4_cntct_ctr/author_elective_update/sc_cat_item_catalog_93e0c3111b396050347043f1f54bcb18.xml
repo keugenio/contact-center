@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Contact Center Service Request">ff5a2c111b312050347043f1f54bcbd4</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-18 14:25:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>93e0c3111b396050347043f1f54bcb18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Contact Center Service Request</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_93e0c3111b396050347043f1f54bcb18</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-18 14:25:57</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</application>
+        <file_path/>
+        <instance_id>8f9833b9dbb3c0503d037f693296197b</instance_id>
+        <instance_name>dhsuscisdev2</instance_name>
+        <name>sc_cat_item_catalog_93e0c3111b396050347043f1f54bcb18</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Contact Center Service Request">ff5a2c111b312050347043f1f54bcbd4</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-01-18 14:25:57</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>93e0c3111b396050347043f1f54bcb18</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Contact Center Service Request</sys_name><sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope><sys_update_name>sc_cat_item_catalog_93e0c3111b396050347043f1f54bcb18</sys_update_name><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-01-18 14:25:57</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1575055892</payload_hash>
+        <record_name>Service Catalog.Contact Center Service Request</record_name>
+        <reverted_from/>
+        <source>c1c2b4781bb1e810347043f1f54bcbcd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-18 14:25:57</sys_created_on>
+        <sys_id>d3e0c3111b396050347043f1f54bcb1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17715e35aaa0000001</sys_recorded_at>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-18 14:25:57</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>dbe0c311f339605018701441a297541a</update_guid>
+        <update_guid_history>dbe0c311f339605018701441a297541a:1575055892</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2021-01-19 12.12.15 PM">7490f0f91b716450347043f1f54bcb63</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 17:12:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>11d585cc1d754e548e02c8a51643d664</sys_id>
+        <sys_metadata>93e0c3111b396050347043f1f54bcb18</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Contact Center Service Request</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_parent display_value="">ff5a2c111b312050347043f1f54bcbd4</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_scope_delete display_value="">a522eceaf00f42fa93eff8cbd3852d44</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_93e0c3111b396050347043f1f54bcb18</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_93e0c3111b396050347043f1f54bcb18">d3e0c3111b396050347043f1f54bcb1b</sys_update_version>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 17:12:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

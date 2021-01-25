@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="sc_request" label="Contact Center Service Request" max_length="40" name="x_g_dh4_cntct_ctr_contact_center_service_request" sizeclass="6" type="collection">
+        <element default="b0586aad6f542e405603e8354b3ee411" label="Assignment Group" max_length="32" name="assignment_grp" reference="sys_user_group" type="reference"/>
+        <element label="COR" max_length="32" name="cor" reference="sys_user" type="reference"/>
+        <element label="Desired Implemetation Date" max_length="40" name="desired_implemetation_date" type="glide_date"/>
+        <element label="ITPM" max_length="32" name="itpm" reference="sys_user" type="reference"/>
+        <element label="PMO" max_length="32" name="pmo" reference="sys_user" type="reference"/>
+        <element label="Point of Contact" max_length="32" name="point_of_contact" reference="sys_user" type="reference"/>
+        <element choice="1" label="Program" max_length="40" name="program" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Verification (VCC)" value="vcc"/>
+                <element inactive_on_update="false" label="EXA/CAIS (CC Tier 1, Tier 2, &amp; LSS" sequence="200" value="exa-cais"/>
+                <element inactive_on_update="false" label="EXA/CAIS (IVRs)" sequence="300" value="ivr"/>
+            </choice>
+        </element>
+        <element choice="3" label="Purpose" max_length="40" name="purpose" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Routine Change (MACD)" sequence="100" value="change"/>
+                <element inactive_on_update="false" label="Refinement/Existing" sequence="200" value="refinement"/>
+                <element inactive_on_update="false" label="Enhancement/New" sequence="300" value="enhancement"/>
+            </choice>
+        </element>
+    </element>
+</database>

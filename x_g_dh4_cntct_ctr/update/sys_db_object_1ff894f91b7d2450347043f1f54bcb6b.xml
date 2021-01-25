@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Contact Center Service Request</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_g_dh4_cntct_ctr_contact_center_service_request</name>
+        <number_ref display_value="CCSR">a3312db51b796450347043f1f54bcb23</number_ref>
+        <provider_class/>
+        <read_access>false</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Request" name="sc_request">e7e0c0f16f320200a0b002e6eb3ee432</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 15:29:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1ff894f91b7d2450347043f1f54bcb6b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Contact Center Service Request</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_db_object_1ff894f91b7d2450347043f1f54bcb6b</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 20:45:01</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_g_dh4_cntct_ctr.contact_center_service_request_user" name="x_g_dh4_cntct_ctr.contact_center_service_request_user">4657f0f01bf1e810347043f1f54bcb7f</user_role>
+        <ws_access>false</ws_access>
+    </sys_db_object>
+</record_update>

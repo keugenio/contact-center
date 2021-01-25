@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Contact Center Service Request">ea73bcb91b716450347043f1f54bcbaf</catalog_item>
+        <catalog_variable>IO:267993aa1b75e850e88587fce54bcb09</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-22 13:27:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d4f91bea1b75e850e88587fce54bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itpm</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_d4f91bea1b75e850e88587fce54bcbae</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-22 13:27:47</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Set Opened By, Open At, Assignment Group to read only">e6f8b8311bf16450347043f1f54bcbee</ui_policy>
+        <variable>itpm</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

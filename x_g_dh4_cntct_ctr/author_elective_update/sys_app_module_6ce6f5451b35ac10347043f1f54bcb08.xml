@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Contact Center Service Request">5b191cf91b7d2450347043f1f54bcb97</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Contact Center Admin</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>35</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_g_dh4_cntct_ctr.contact_center_service_request_admin</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-17 14:25:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ce6f5451b35ac10347043f1f54bcb08</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Contact Center Admin</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_app_module_6ce6f5451b35ac10347043f1f54bcb08</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 15:54:15</sys_updated_on>
+        <timeline_page/>
+        <title>Contact Center Admin</title>
+        <u_count_color/>
+        <u_count_filter/>
+        <u_refresh_interval/>
+        <u_show_count>false</u_show_count>
+        <u_sort_order/>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</application>
+        <file_path/>
+        <instance_id>8f9833b9dbb3c0503d037f693296197b</instance_id>
+        <instance_name>dhsuscisdev2</instance_name>
+        <name>sys_app_module_6ce6f5451b35ac10347043f1f54bcb08</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Contact Center Service Request">5b191cf91b7d2450347043f1f54bcb97</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Contact Center Admin</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>35</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_g_dh4_cntct_ctr.contact_center_service_request_admin</roles><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-01-17 14:25:02</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6ce6f5451b35ac10347043f1f54bcb08</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Contact Center Admin</sys_name><sys_overrides/><sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope><sys_update_name>sys_app_module_6ce6f5451b35ac10347043f1f54bcb08</sys_update_name><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-01-19 15:54:15</sys_updated_on><timeline_page/><title>Contact Center Admin</title><u_count_color/><u_count_filter/><u_refresh_interval/><u_show_count>false</u_show_count><u_sort_order/><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2035263669</payload_hash>
+        <record_name>Contact Center Admin</record_name>
+        <reverted_from/>
+        <source>c1c2b4781bb1e810347043f1f54bcbcd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 15:54:15</sys_created_on>
+        <sys_id>12be1cb51bbd2450347043f1f54bcbb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1771b5a8dbd0000001</sys_recorded_at>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 15:54:15</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d6be1cb5fcbd2450e293351ea2b298b0</update_guid>
+        <update_guid_history>d6be1cb5fcbd2450e293351ea2b298b0:2035263669,be09a7c91d75ec1055109fcc439d6679:-1754039802,c827fd856635ac1066d40abe378b671c:792505250</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2021-01-19 10.59.15 AM">27df9cf91bbd2450347043f1f54bcb85</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 15:59:15</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>05eb15581c6140ef896845c079d952a9</sys_id>
+        <sys_metadata>6ce6f5451b35ac10347043f1f54bcb08</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contact Center Admin</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_scope_delete display_value="">a522eceaf00f42fa93eff8cbd3852d44</sys_scope_delete>
+        <sys_update_name>sys_app_module_6ce6f5451b35ac10347043f1f54bcb08</sys_update_name>
+        <sys_update_version display_value="sys_app_module_6ce6f5451b35ac10347043f1f54bcb08">12be1cb51bbd2450347043f1f54bcbb1</sys_update_version>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 15:59:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

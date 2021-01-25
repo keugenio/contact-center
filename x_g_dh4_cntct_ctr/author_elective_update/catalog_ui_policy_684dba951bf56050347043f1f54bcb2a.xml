@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_ui_policy">
+    <catalog_ui_policy action="DELETE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <catalog_conditions/>
+        <catalog_item/>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>false</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>set opened by fields &amp; assignment group to read only</short_description>
+        <sys_class_name>catalog_ui_policy</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-18 14:10:35</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>684dba951bf56050347043f1f54bcb2a</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>set opened by fields &amp; assignment group to read only</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>catalog_ui_policy_684dba951bf56050347043f1f54bcb2a</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-18 14:39:32</sys_updated_on>
+        <table/>
+        <ui_type>0</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_ui_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</application>
+        <file_path/>
+        <instance_id>8f9833b9dbb3c0503d037f693296197b</instance_id>
+        <instance_name>dhsuscisdev2</instance_name>
+        <name>catalog_ui_policy_684dba951bf56050347043f1f54bcb2a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="catalog_ui_policy"&gt;&lt;catalog_ui_policy action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_catalog&gt;true&lt;/applies_catalog&gt;&lt;applies_req_item&gt;false&lt;/applies_req_item&gt;&lt;applies_sc_task&gt;false&lt;/applies_sc_task&gt;&lt;applies_target_record&gt;false&lt;/applies_target_record&gt;&lt;applies_to&gt;item&lt;/applies_to&gt;&lt;catalog_conditions/&gt;&lt;catalog_item/&gt;&lt;conditions/&gt;&lt;description/&gt;&lt;global&gt;true&lt;/global&gt;&lt;inherit&gt;false&lt;/inherit&gt;&lt;isolate_script&gt;false&lt;/isolate_script&gt;&lt;model_id/&gt;&lt;model_table/&gt;&lt;on_load&gt;true&lt;/on_load&gt;&lt;order&gt;100&lt;/order&gt;&lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;&lt;run_scripts&gt;true&lt;/run_scripts&gt;&lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;&lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;&lt;set_values/&gt;&lt;short_description&gt;set opened by fields &amp;amp; assignment group to read only&lt;/short_description&gt;&lt;sys_class_name&gt;catalog_ui_policy&lt;/sys_class_name&gt;&lt;sys_created_by&gt;kmeugeni&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-01-18 14:10:35&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;684dba951bf56050347043f1f54bcb2a&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;set opened by fields &amp;amp; assignment group to read only&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr"&gt;c5c2b4781bb1e810347043f1f54bcbcb&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Contact Center"&gt;c5c2b4781bb1e810347043f1f54bcbcb&lt;/sys_scope&gt;&lt;sys_update_name&gt;catalog_ui_policy_684dba951bf56050347043f1f54bcb2a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;kmeugeni&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-01-18 14:39:32&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;variable_set/&gt;&lt;view/&gt;&lt;/catalog_ui_policy&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2122187236</payload_hash>
+        <record_name>set opened by fields &amp; assignment group to read only</record_name>
+        <reverted_from/>
+        <source>c1c2b4781bb1e810347043f1f54bcbcd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 17:12:16</sys_created_on>
+        <sys_id>d59078f91b716450347043f1f54bcb15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1771ba1fb3c0000001</sys_recorded_at>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 17:12:16</sys_updated_on>
+        <type>Catalog UI Policy</type>
+        <update_guid>c2040b953c396050fe6810350b098417</update_guid>
+        <update_guid_history>c2040b953c396050fe6810350b098417:-1603692318,c2040b953c396050fe6810350b098417:-1603692318,855283152e396050ac3fb8a1b24f96ea:-317048418,423ffa9957f5605031b03c2fd6c6aba8:-157335208,23deba9993f56050a2deff95767a2593:1783408344,1d8e36d591f560503c11483244087e49:-1375058000,a13ebe19a4f56050d43763772cd6f0ef:-1846821333,e2bd3e95d9f56050a102223f098c2cef:-157335208,9a6d7e958ff560506b9c65b5a746fe45:-127369828</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2021-01-19 12.12.26 PM">ff90f8f91b716450347043f1f54bcb2a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 17:12:26</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="catalog_ui_policy">catalog_ui_policy</sys_db_object>
+        <sys_id>24a8f41df50a4050bf7ef07bda592004</sys_id>
+        <sys_metadata>684dba951bf56050347043f1f54bcb2a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>set opened by fields &amp; assignment group to read only</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_scope_delete display_value="">a522eceaf00f42fa93eff8cbd3852d44</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_684dba951bf56050347043f1f54bcb2a</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_684dba951bf56050347043f1f54bcb2a">d59078f91b716450347043f1f54bcb15</sys_update_version>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 17:12:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_g_dh4_cntct_ctr_contact_center_service_request">x_g_dh4_cntct_ctr_contact_center_service_request</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>CCSR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-16 15:36:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9bfdf8741b35e810347043f1f54bcb20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CCSR</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_number_9bfdf8741b35e810347043f1f54bcb20</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-16 15:36:55</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</application>
+        <file_path/>
+        <instance_id>8f9833b9dbb3c0503d037f693296197b</instance_id>
+        <instance_name>dhsuscisdev2</instance_name>
+        <name>sys_number_9bfdf8741b35e810347043f1f54bcb20</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_g_dh4_cntct_ctr_contact_center_service_request">x_g_dh4_cntct_ctr_contact_center_service_request</category><maximum_digits>7</maximum_digits><number>1000</number><prefix>CCSR</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-01-16 15:36:55</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9bfdf8741b35e810347043f1f54bcb20</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CCSR</sys_name><sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope><sys_update_name>sys_number_9bfdf8741b35e810347043f1f54bcb20</sys_update_name><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-01-16 15:36:55</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-17655636</payload_hash>
+        <record_name>CCSR</record_name>
+        <reverted_from/>
+        <source>c1c2b4781bb1e810347043f1f54bcbcd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-16 15:36:55</sys_created_on>
+        <sys_id>dbfdbcb41b35e810347043f1f54bcb73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1770bd79ce60000001</sys_recorded_at>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-16 15:36:55</sys_updated_on>
+        <type>Number</type>
+        <update_guid>d3fdbcb4bf35e810624277c2ec78a973</update_guid>
+        <update_guid_history>d3fdbcb4bf35e810624277c2ec78a973:-17655636</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 15:28:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>2bd5a727728b4f98802af0600e532be1</sys_id>
+        <sys_metadata>9bfdf8741b35e810347043f1f54bcb20</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CCSR</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_parent display_value="">cf56b4f01bf1e810347043f1f54bcbad</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_scope_delete display_value="">a522eceaf00f42fa93eff8cbd3852d44</sys_scope_delete>
+        <sys_update_name>sys_number_9bfdf8741b35e810347043f1f54bcb20</sys_update_name>
+        <sys_update_version display_value="sys_number_9bfdf8741b35e810347043f1f54bcb20">dbfdbcb41b35e810347043f1f54bcb73</sys_update_version>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 15:28:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

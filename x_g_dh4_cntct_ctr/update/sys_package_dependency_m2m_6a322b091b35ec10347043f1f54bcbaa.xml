@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">c9be33616f320200a0b002e6eb3ee4c5</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-17 22:12:58</sys_created_on>
+        <sys_id>6a322b091b35ec10347043f1f54bcbaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-17 22:12:58</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

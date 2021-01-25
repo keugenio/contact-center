@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="DELETE">
+        <access>package_private</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>waits and sends reminder email to ITMP group every 24 hours</description>
+        <internal_name>wait_for_ccsr_assignment</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Wait for CCSR assignment</name>
+        <natlang/>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-18 02:02:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>27d654d91b3dec10347043f1f54bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wait for CCSR assignment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_hub_flow_27d654d91b3dec10347043f1f54bcbdc</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-18 02:02:57</sys_updated_on>
+        <type>subflow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="DELETE" query="document_key=27d654d91b3dec10347043f1f54bcbdc"/>
+    <sys_flow_cat_variable_model action="DELETE" query="id=27d654d91b3dec10347043f1f54bcbdc^sys_idNOT INe3d654d91b3dec10347043f1f54bcbdd"/>
+    <sys_flow_cat_variable_model action="DELETE">
+        <id>27d654d91b3dec10347043f1f54bcbdc</id>
+        <name>Wait for CCSR assignment</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-18 02:02:57</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e3d654d91b3dec10347043f1f54bcbdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-18 02:02:57</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</application>
+        <file_path/>
+        <instance_id>8f9833b9dbb3c0503d037f693296197b</instance_id>
+        <instance_name>dhsuscisdev2</instance_name>
+        <name>sys_hub_flow_27d654d91b3dec10347043f1f54bcbdc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow"><sys_hub_flow action="INSERT_OR_UPDATE"><access>package_private</access><acls/><active>false</active><annotation/><callable_by_client_api>false</callable_by_client_api><category/><compiler_build/><copied_from/><copied_from_name/><description>waits and sends reminder email to ITMP group every 24 hours</description><internal_name>wait_for_ccsr_assignment</internal_name><label_cache>[]</label_cache><latest_snapshot/><master_snapshot/><name>Wait for CCSR assignment</name><natlang/><outputs/><remote_trigger_id/><run_as>user</run_as><sc_callable>false</sc_callable><show_draft_actions>false</show_draft_actions><show_triggered_flows>false</show_triggered_flows><status>draft</status><sys_class_name>sys_hub_flow</sys_class_name><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-01-18 02:02:57</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>27d654d91b3dec10347043f1f54bcbdc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Wait for CCSR assignment</sys_name><sys_overrides/><sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope><sys_update_name>sys_hub_flow_27d654d91b3dec10347043f1f54bcbdc</sys_update_name><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-01-18 02:02:57</sys_updated_on><type>subflow</type></sys_hub_flow><sys_variable_value action="delete_multiple" query="document_key=27d654d91b3dec10347043f1f54bcbdc"/><sys_flow_cat_variable_model action="delete_multiple" query="id=27d654d91b3dec10347043f1f54bcbdc^sys_idNOT INe3d654d91b3dec10347043f1f54bcbdd"/><sys_flow_cat_variable_model action="INSERT_OR_UPDATE"><id>27d654d91b3dec10347043f1f54bcbdc</id><name>Wait for CCSR assignment</name><sys_class_name>sys_flow_cat_variable_model</sys_class_name><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-01-18 02:02:57</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>e3d654d91b3dec10347043f1f54bcbdd</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope><sys_update_name/><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-01-18 02:02:57</sys_updated_on></sys_flow_cat_variable_model></record_update>]]></payload>
+        <payload_hash>1089463717</payload_hash>
+        <record_name>Wait for CCSR assignment</record_name>
+        <reverted_from/>
+        <source>c1c2b4781bb1e810347043f1f54bcbcd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-18 02:02:57</sys_created_on>
+        <sys_id>e7d654d91b3dec10347043f1f54bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177133b1e910000001</sys_recorded_at>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-18 02:02:57</sys_updated_on>
+        <type>Flow</type>
+        <update_guid>efd654d9c03dec10110266f7582c8cdf</update_guid>
+        <update_guid_history>efd654d9c03dec10110266f7582c8cdf:1089463717</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-18 02:51:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_hub_flow">sys_hub_flow</sys_db_object>
+        <sys_id>0799a458f7a045ba80ecccce4a89b5f1</sys_id>
+        <sys_metadata>27d654d91b3dec10347043f1f54bcbdc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wait for CCSR assignment</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_scope_delete display_value="">a522eceaf00f42fa93eff8cbd3852d44</sys_scope_delete>
+        <sys_update_name>sys_hub_flow_27d654d91b3dec10347043f1f54bcbdc</sys_update_name>
+        <sys_update_version display_value="sys_hub_flow_27d654d91b3dec10347043f1f54bcbdc">e7d654d91b3dec10347043f1f54bcbe0</sys_update_version>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-18 02:51:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

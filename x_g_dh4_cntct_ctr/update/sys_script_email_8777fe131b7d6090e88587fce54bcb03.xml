@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_email">
+    <sys_script_email action="INSERT_OR_UPDATE">
+        <name>list_variables</name>
+        <new_lines_to_html>true</new_lines_to_html>
+        <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
+          /* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
+          /* Optional GlideRecord */ event) {
+
+	var requested_for_name = current.variables["requested_for"].name.toString();
+	var point_of_contact_name = current.variables["point_of_contact"].name.toString();
+	
+	var itpm_name = current.variables["itpm"] ? current.variables["itpm"].name.toString() :'';
+	var pmo_name = current.variables["pmo"] ? current.variables["pmo"].name.toString() : '';
+	var purpose = current.variables["purpose"].getDisplayValue();
+	var desired_implementation_date = current.variables["desired_implementation_date"];
+	var program = current.variables["program"].getDisplayValue();
+	var location = current.variables["location"].getDisplayValue();
+	var short_description = current.variables["short_description"];
+	var description = current.variables["description"];
+	
+	
+	template.print("<b>Requested for: </b>" + requested_for_name + "<br />");
+	template.print("<b>Point of Contact: </b>" + point_of_contact_name + "<br />");
+	if (itpm_name != '') template.print("<b>ITPM: </b>" + itpm_name + "<br />");
+	if (pmo_name != '') template.print("<b>PMO: </b>" + pmo_name + "<br />");
+	template.print("<b>Purpose: </b>" + purpose + "<br />");
+	template.print("<b>Desired Implementation Date: </b>" + desired_implementation_date + "<br />");
+	template.print("<b>Program: </b>" + program + "<br />");
+	template.print("<b>Location: </b>" + location + "<br /><hr>");
+	template.print("<b>Short Description: </b>" + short_description + "<br />");
+	template.print("<b>Description: </b>" + description + "<br />");
+
+})(current, template, email, email_action, event);]]></script>
+        <sys_class_name>sys_script_email</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-24 18:52:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8777fe131b7d6090e88587fce54bcb03</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>list_variables</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_script_email_8777fe131b7d6090e88587fce54bcb03</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-24 19:43:26</sys_updated_on>
+    </sys_script_email>
+</record_update>

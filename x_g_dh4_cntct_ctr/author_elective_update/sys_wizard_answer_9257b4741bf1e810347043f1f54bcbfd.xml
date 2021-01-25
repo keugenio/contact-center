@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Contact Center Service Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Contact Center Service Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">c1be33616f320200a0b002e6eb3ee4c6</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-16 15:07:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9257b4741bf1e810347043f1f54bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contact Center Service Request</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_wizard_answer_9257b4741bf1e810347043f1f54bcbfd</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-16 15:07:54</sys_updated_on>
+        <table/>
+        <target_url>x_g_dh4_cntct_ctr_contact_center_service_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</application>
+        <file_path/>
+        <instance_id>8f9833b9dbb3c0503d037f693296197b</instance_id>
+        <instance_name>dhsuscisdev2</instance_name>
+        <name>sys_wizard_answer_9257b4741bf1e810347043f1f54bcbfd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Contact Center Service Request</answer><button_label/><dependent_value/><element/><name>Contact Center Service Request</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">c1be33616f320200a0b002e6eb3ee4c6</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-01-16 15:07:54</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9257b4741bf1e810347043f1f54bcbfd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contact Center Service Request</sys_name><sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope><sys_update_name>sys_wizard_answer_9257b4741bf1e810347043f1f54bcbfd</sys_update_name><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-01-16 15:07:54</sys_updated_on><table/><target_url>x_g_dh4_cntct_ctr_contact_center_service_request.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>820709008</payload_hash>
+        <record_name>Contact Center Service Request</record_name>
+        <reverted_from/>
+        <source>3ec821021b01201028ef43f1f54bcbd6</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-12-14 09:09:15</sys_created_on>
+        <sys_id>44d8d8b91b7d2450347043f1f54bcb94</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1766082d2780000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>04d8d8b93b7d2450e7cd712d1ad33a94</update_guid>
+        <update_guid_history>04d8d8b93b7d2450e7cd712d1ad33a94:820709008</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 15:28:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>4a6c1d9cd1d141308c387b9eb654c990</sys_id>
+        <sys_metadata>9257b4741bf1e810347043f1f54bcbfd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contact Center Service Request</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_parent display_value="Task">c1be33616f320200a0b002e6eb3ee4c6</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_scope_delete display_value="">a522eceaf00f42fa93eff8cbd3852d44</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_9257b4741bf1e810347043f1f54bcbfd</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_9257b4741bf1e810347043f1f54bcbfd">44d8d8b91b7d2450347043f1f54bcb94</sys_update_version>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 15:28:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

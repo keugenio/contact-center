@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>assignment_group</field>
+        <mandatory>false</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 18:43:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>536581b11b756450347043f1f54bcb4f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>assignment_group</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_ui_policy_action_536581b11b756450347043f1f54bcb4f</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-20 00:25:15</sys_updated_on>
+        <table>x_g_dh4_cntct_ctr_contact_center_service_request</table>
+        <ui_policy display_value="Set Opened By, Opened At, Assignment Group to read only">e38f78711b356450347043f1f54bcb6e</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</application>
+        <file_path/>
+        <instance_id>8f9833b9dbb3c0503d037f693296197b</instance_id>
+        <instance_name>dhsuscisdev2</instance_name>
+        <name>sys_ui_policy_action_536581b11b756450347043f1f54bcb4f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>assignment_group</field><mandatory>false</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-01-19 18:43:33</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>536581b11b756450347043f1f54bcb4f</sys_id><sys_mod_count>3</sys_mod_count><sys_name>assignment_group</sys_name><sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope><sys_update_name>sys_ui_policy_action_536581b11b756450347043f1f54bcb4f</sys_update_name><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-01-20 00:25:15</sys_updated_on><table>x_g_dh4_cntct_ctr_contact_center_service_request</table><ui_policy display_value="Set Opened By, Opened At, Assignment Group to read only">e38f78711b356450347043f1f54bcb6e</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>907857885</payload_hash>
+        <record_name>assignment_group</record_name>
+        <reverted_from/>
+        <source>c1c2b4781bb1e810347043f1f54bcbcd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-20 00:25:15</sys_created_on>
+        <sys_id>33a35e711b71a450347043f1f54bcbf3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1771d2e64ed0000001</sys_recorded_at>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-20 00:25:15</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>f7a35e716671a45031b07779991315f2</update_guid>
+        <update_guid_history>f7a35e716671a45031b07779991315f2:907857885,d1f2dafd8d31a450eac4da1c846ba210:-821983775,e1d2d2fd1631a4500e733bdcd7546737:907857885,2675c1b18c756450fe7cab4a57f3c6b4:-1171431668</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-20 00:33:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>2f3e0dfd5ca84c369c75a078e196bc44</sys_id>
+        <sys_metadata>536581b11b756450347043f1f54bcb4f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>assignment_group</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_parent display_value="">e38f78711b356450347043f1f54bcb6e</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_scope_delete display_value="">a522eceaf00f42fa93eff8cbd3852d44</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_536581b11b756450347043f1f54bcb4f</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_536581b11b756450347043f1f54bcb4f">33a35e711b71a450347043f1f54bcbf3</sys_update_version>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-20 00:33:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

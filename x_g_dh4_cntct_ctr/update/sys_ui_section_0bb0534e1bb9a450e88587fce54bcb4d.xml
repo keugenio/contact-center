@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="0bb0534e1bb9a450e88587fce54bcb4d" sys_domain="global" table="sc_req_item" version="3" view="contact_center">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>11e053ce1bb9a450e88587fce54bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cat_item</element>
+            <position>1</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>91e053ce1bb9a450e88587fce54bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request</element>
+            <position>2</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>15e053ce1bb9a450e88587fce54bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request.requested_for</element>
+            <position>3</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>95e053ce1bb9a450e88587fce54bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>4</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>19e053ce1bb9a450e88587fce54bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>configuration_item</element>
+            <position>5</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>99e053ce1bb9a450e88587fce54bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>6</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>1de053ce1bb9a450e88587fce54bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>9de053ce1bb9a450e88587fce54bcbe3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>8</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>11e053ce1bb9a450e88587fce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>9</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>91e053ce1bb9a450e88587fce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stage</element>
+            <position>10</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>15e053ce1bb9a450e88587fce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>11</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>95e053ce1bb9a450e88587fce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>12</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>19e053ce1bb9a450e88587fce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>estimated_delivery</element>
+            <position>13</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>99e053ce1bb9a450e88587fce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>backordered</element>
+            <position>14</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>1de053ce1bb9a450e88587fce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_guide</element>
+            <position>15</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>9de053ce1bb9a450e88587fce54bcbe4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>11e053ce1bb9a450e88587fce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>com_glideapp_servicecatalog_veditor</element>
+            <position>17</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>91e053ce1bb9a450e88587fce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Variable Editor">86863af2c611229101b57dcc29ac7666</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>18</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>55e053ce1bb9a450e88587fce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>19</position>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:31:10</sys_created_on>
+            <sys_id>d5e053ce1bb9a450e88587fce54bcbe5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="sc_req_item" sys_domain="global" view="c7b0534e1bb9a450e88587fce54bcb46">0bb0534e1bb9a450e88587fce54bcb4d</sys_ui_section>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:31:10</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sc_req_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>kmeugeni</sys_created_by>
+            <sys_created_on>2021-01-20 23:30:28</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bb0534e1bb9a450e88587fce54bcb4d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_req_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+            <sys_update_name>sys_ui_section_0bb0534e1bb9a450e88587fce54bcb4d</sys_update_name>
+            <sys_updated_by>kmeugeni</sys_updated_by>
+            <sys_updated_on>2021-01-20 23:30:28</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Contact Center" name="contact_center">c7b0534e1bb9a450e88587fce54bcb46</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

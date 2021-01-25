@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Contact Center">92f3b43c1bb1e810347043f1f54bcbf2</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Closed</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_g_dh4_cntct_ctr_contact_center_service_request</name>
+        <order>55</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=false^EQ</query>
+        <report/>
+        <roles>x_g_dh4_cntct_ctr.contact_center_service_request_admin</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-16 14:53:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>daf3f43c1bb1e810347043f1f54bcb00</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sys_app_module_daf3f43c1bb1e810347043f1f54bcb00</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-17 14:25:19</sys_updated_on>
+        <timeline_page/>
+        <title>Closed</title>
+        <u_count_color/>
+        <u_count_filter/>
+        <u_refresh_interval/>
+        <u_show_count>false</u_show_count>
+        <u_sort_order/>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</application>
+        <file_path/>
+        <instance_id>8f9833b9dbb3c0503d037f693296197b</instance_id>
+        <instance_name>dhsuscisdev2</instance_name>
+        <name>sys_app_module_daf3f43c1bb1e810347043f1f54bcb00</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Contact Center">92f3b43c1bb1e810347043f1f54bcbf2</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Closed</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_g_dh4_cntct_ctr_contact_center_service_request</name><order>55</order><override_menu_roles>false</override_menu_roles><query>active=false^EQ</query><report/><roles>x_g_dh4_cntct_ctr.contact_center_service_request_admin</roles><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-01-16 14:53:10</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>daf3f43c1bb1e810347043f1f54bcb00</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Closed</sys_name><sys_overrides/><sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope><sys_update_name>sys_app_module_daf3f43c1bb1e810347043f1f54bcb00</sys_update_name><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-01-17 14:25:19</sys_updated_on><timeline_page/><title>Closed</title><u_count_color/><u_count_filter/><u_refresh_interval/><u_show_count>false</u_show_count><u_sort_order/><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2084273761</payload_hash>
+        <record_name>Closed</record_name>
+        <reverted_from/>
+        <source>c1c2b4781bb1e810347043f1f54bcbcd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-17 14:25:19</sys_created_on>
+        <sys_id>54373dc51b35ac10347043f1f54bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17710bc6b5c0000001</sys_recorded_at>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-17 14:25:19</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d437b1850535ac101b47df0ad8b7d735</update_guid>
+        <update_guid_history>d437b1850535ac101b47df0ad8b7d735:2084273761,8b62b1c91bf1ac1093ec6dc9b43c52af:-109444804,bf8fa5cd1eb1ac10564a4ce7905d678c:-102792857,9ef3f43cfbb1e810f5d258c0c9208101:-520945193</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2021-01-19 10.25.54 AM">973894791b7d2450347043f1f54bcb51</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-19 15:25:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>c9be04b492604e5c8f95e5ddd4c3eea9</sys_id>
+        <sys_metadata>daf3f43c1bb1e810347043f1f54bcb00</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_scope_delete display_value="">a522eceaf00f42fa93eff8cbd3852d44</sys_scope_delete>
+        <sys_update_name>sys_app_module_daf3f43c1bb1e810347043f1f54bcb00</sys_update_name>
+        <sys_update_version display_value="sys_app_module_daf3f43c1bb1e810347043f1f54bcb00">54373dc51b35ac10347043f1f54bcbc9</sys_update_version>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-19 15:25:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
