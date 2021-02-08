@@ -15,18 +15,18 @@
         <label_cache>[{"name":"{{action.ritm}}","label":"action➛RITM","type":"action","ref":""},{"name":"{{action.pmo}}","label":"action➛COR","type":"action","ref":""},{"name":"{{action.cor}}","label":"action➛COR","type":"action","ref":"sys_user"}]</label_cache>
         <latest_snapshot>2c1dce971bf56090e88587fce54bcb0d</latest_snapshot>
         <master_snapshot>601dce971bf56090e88587fce54bcb34</master_snapshot>
-        <name>Update COR on CCSR</name>
+        <name>Update COR on RITM</name>
         <natlang/>
         <outputs/>
-        <state>published</state>
+        <state>draft</state>
         <sys_class_name>sys_hub_action_type_definition</sys_class_name>
         <sys_created_by>kmeugeni</sys_created_by>
         <sys_created_on>2021-01-24 15:46:37</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>1fec0a971bf56090e88587fce54bcb50</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Update COR on CCSR</sys_name>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Update COR on RITM</sys_name>
         <sys_overrides/>
         <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
         <sys_policy/>
@@ -34,14 +34,14 @@
         <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_1fec0a971bf56090e88587fce54bcb50</sys_update_name>
         <sys_updated_by>kmeugeni</sys_updated_by>
-        <sys_updated_on>2021-01-24 15:47:15</sys_updated_on>
+        <sys_updated_on>2021-02-08 04:18:07</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
     <sys_variable_value action="delete_multiple" query="document_key=1fec0a971bf56090e88587fce54bcb50"/>
     <sys_hub_step_instance action="delete_multiple" query="action=1fec0a971bf56090e88587fce54bcb50^sys_idNOT IN53ec0a971bf56090e88587fce54bcb69"/>
     <sys_hub_step_instance action="INSERT_OR_UPDATE">
-        <action display_value="Update COR on CCSR">1fec0a971bf56090e88587fce54bcb50</action>
+        <action display_value="Update COR on RITM">1fec0a971bf56090e88587fce54bcb50</action>
         <cid>8441c526-0860-43c8-8aac-1d31342654d0</cid>
         <extended_inputs/>
         <extended_inputs/>
@@ -171,7 +171,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -230,7 +230,7 @@
         <sys_created_on>2021-01-24 15:47:11</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>370d8e971bf56090e88587fce54bcb9d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -238,7 +238,7 @@
         <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
         <sys_update_name/>
         <sys_updated_by>kmeugeni</sys_updated_by>
-        <sys_updated_on>2021-01-24 15:47:11</sys_updated_on>
+        <sys_updated_on>2021-02-08 04:18:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <u_will_the_cots_purchase_be_modified_in_this_demand/>
@@ -255,7 +255,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -314,7 +314,7 @@
         <sys_created_on>2021-01-24 15:46:37</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d3ec0a971bf56090e88587fce54bcb6c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -322,7 +322,7 @@
         <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
         <sys_update_name/>
         <sys_updated_by>kmeugeni</sys_updated_by>
-        <sys_updated_on>2021-01-24 15:46:38</sys_updated_on>
+        <sys_updated_on>2021-02-08 04:18:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <u_will_the_cots_purchase_be_modified_in_this_demand/>
@@ -375,7 +375,7 @@
         <label>RITM</label>
         <mandatory>false</mandatory>
         <max_length>32</max_length>
-        <model display_value="Update COR on CCSR">1fec0a971bf56090e88587fce54bcb50</model>
+        <model display_value="Update COR on RITM">1fec0a971bf56090e88587fce54bcb50</model>
         <model_id>1fec0a971bf56090e88587fce54bcb50</model_id>
         <model_table>sys_hub_action_type_definition</model_table>
         <name>var__m_sys_hub_action_input_1fec0a971bf56090e88587fce54bcb50</name>
@@ -459,7 +459,7 @@
         <label>COR</label>
         <mandatory>false</mandatory>
         <max_length>32</max_length>
-        <model display_value="Update COR on CCSR">1fec0a971bf56090e88587fce54bcb50</model>
+        <model display_value="Update COR on RITM">1fec0a971bf56090e88587fce54bcb50</model>
         <model_id>1fec0a971bf56090e88587fce54bcb50</model_id>
         <model_table>sys_hub_action_type_definition</model_table>
         <name>var__m_sys_hub_action_input_1fec0a971bf56090e88587fce54bcb50</name>
@@ -506,7 +506,7 @@
     </sys_hub_action_input>
     <sys_hub_step_instance action="delete_multiple" query="action=1fec0a971bf56090e88587fce54bcb50^sys_idNOT IN53ec0a971bf56090e88587fce54bcb69"/>
     <sys_hub_step_instance action="INSERT_OR_UPDATE">
-        <action display_value="Update COR on CCSR">1fec0a971bf56090e88587fce54bcb50</action>
+        <action display_value="Update COR on RITM">1fec0a971bf56090e88587fce54bcb50</action>
         <cid>8441c526-0860-43c8-8aac-1d31342654d0</cid>
         <extended_inputs/>
         <extended_inputs/>
@@ -636,7 +636,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -695,7 +695,7 @@
         <sys_created_on>2021-01-24 15:47:11</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>370d8e971bf56090e88587fce54bcb9d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -703,7 +703,7 @@
         <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
         <sys_update_name/>
         <sys_updated_by>kmeugeni</sys_updated_by>
-        <sys_updated_on>2021-01-24 15:47:11</sys_updated_on>
+        <sys_updated_on>2021-02-08 04:18:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <u_will_the_cots_purchase_be_modified_in_this_demand/>
@@ -720,7 +720,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=string,uiTypeLabel=String</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -779,7 +779,7 @@
         <sys_created_on>2021-01-24 15:46:37</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>d3ec0a971bf56090e88587fce54bcb6c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
@@ -787,7 +787,7 @@
         <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
         <sys_update_name/>
         <sys_updated_by>kmeugeni</sys_updated_by>
-        <sys_updated_on>2021-01-24 15:46:38</sys_updated_on>
+        <sys_updated_on>2021-02-08 04:18:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <u_will_the_cots_purchase_be_modified_in_this_demand/>
@@ -853,7 +853,7 @@
     </sys_documentation>
     <sys_hub_action_plan action="delete_multiple" query="action_id=1fec0a971bf56090e88587fce54bcb50^sys_idNOT IN3c1dce971bf56090e88587fce54bcba1"/>
     <sys_hub_action_plan action="INSERT_OR_UPDATE">
-        <action_id display_value="Update COR on CCSR">1fec0a971bf56090e88587fce54bcb50</action_id>
+        <action_id display_value="Update COR on RITM">1fec0a971bf56090e88587fce54bcb50</action_id>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"3c1dce971bf56090e88587fce54bcba1","name":"plan"}}</plan>
         <snapshot>2c1dce971bf56090e88587fce54bcb0d</snapshot>
         <sys_class_name>sys_hub_action_plan</sys_class_name>
@@ -889,7 +889,7 @@
         <name>Update COR on CCSR</name>
         <natlang/>
         <outputs/>
-        <parent_action display_value="Update COR on CCSR">1fec0a971bf56090e88587fce54bcb50</parent_action>
+        <parent_action display_value="Update COR on RITM">1fec0a971bf56090e88587fce54bcb50</parent_action>
         <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
         <sys_created_by>kmeugeni</sys_created_by>
         <sys_created_on>2021-01-24 15:47:15</sys_created_on>

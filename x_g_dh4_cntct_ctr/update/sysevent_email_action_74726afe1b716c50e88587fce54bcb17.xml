@@ -14,9 +14,9 @@
         <digest_from/>
         <digest_html/>
         <digest_reply_to/>
-        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+        <digest_separator_html><![CDATA[<p><br /></p>
 <hr />
-<p>&nbsp;</p>]]></digest_separator_html>
+<p><br /></p>]]></digest_separator_html>
         <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
         <digest_subject/>
         <digest_template/>
@@ -35,12 +35,13 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Contact Center Service Request ${URI_REF} has been rejected by ${event.parm1}.</p>
-<p>&nbsp;</p>
+        <message_html><![CDATA[<p><img src="/EmailBanner.pngx" alt="USCIS myIT Banner" align="baseline" border="" hspace="" vspace="" /></p>
+<p>Contact Center Service Request ${URI_REF} has been rejected by ${event.parm1}.</p>
+<p><br /></p>
 <p>Latest work notes: ${work_notes}</p>
 <p>${mail_script:add_requested_for_and_poc_to_cc}</p>
 <p>${mail_script:list_variables}</p>
-<p>&nbsp;</p>]]></message_html>
+<p><br /></p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Notify CCSR is Rejected</name>
@@ -63,7 +64,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>74726afe1b716c50e88587fce54bcb17</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Notify CCSR is Rejected</sys_name>
         <sys_overrides/>
         <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
@@ -72,7 +73,7 @@
         <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
         <sys_update_name>sysevent_email_action_74726afe1b716c50e88587fce54bcb17</sys_update_name>
         <sys_updated_by>kmeugeni</sys_updated_by>
-        <sys_updated_on>2021-01-25 00:10:54</sys_updated_on>
+        <sys_updated_on>2021-02-08 12:52:20</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

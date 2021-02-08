@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Contact Center Service Request">ea73bcb91b716450347043f1f54bcbaf</catalog_item>
+        <catalog_variable>IO:a92868441b16ec90347043f1f54bcbca</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>200</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-02-07 14:24:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>324006b31b866c90347043f1f54bcb8a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>assignment_organization</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_324006b31b866c90347043f1f54bcb8a</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-02-08 03:06:31</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Set fields to read only on init creation">e6f8b8311bf16450347043f1f54bcbee</ui_policy>
+        <variable>assignment_organization</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

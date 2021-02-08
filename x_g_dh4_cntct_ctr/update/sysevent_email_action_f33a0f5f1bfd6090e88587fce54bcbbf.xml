@@ -14,15 +14,15 @@
         <digest_from/>
         <digest_html/>
         <digest_reply_to/>
-        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+        <digest_separator_html><![CDATA[<p><br /></p>
 <hr />
-<p>&nbsp;</p>]]></digest_separator_html>
+<p><br /></p>]]></digest_separator_html>
         <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
         <digest_subject/>
         <digest_template/>
         <digest_text/>
         <digestable>false</digestable>
-        <event_name>x_g_dh4_cntct_ctr.notify_clients_sow_com</event_name>
+        <event_name>x_g_dh4_cntct_ctr.notify_clients_task_ge</event_name>
         <event_parm_1>false</event_parm_1>
         <event_parm_2>false</event_parm_2>
         <exclude_delegates>false</exclude_delegates>
@@ -35,8 +35,9 @@
         <item_table/>
         <mandatory>false</mandatory>
         <message/>
-        <message_html><![CDATA[<p>Number: ${URI_REF}</p>
-<p>Vendor Task Order generated and attached by COR, ${mail_script:cor_name}.&nbsp; This request is currently in implementation and will be updated by the COR until completion</p>
+        <message_html><![CDATA[<p><img src="/EmailBanner.pngx" alt="USCIS myIT Banner" align="baseline" border="" hspace="" vspace="" /></p>
+<p>Number: ${URI_REF}</p>
+<p>Vendor Task Order generated and attached by COR, ${mail_script:cor_name}.&nbsp; This request is currently in implementation and will be updated by ${mail_script:itpm_name} until completion</p>
 <p>${mail_script:add_requested_for_and_poc_to_cc}</p>
 <p>${mail_script:list_variables}</p>]]></message_html>
         <message_list/>
@@ -52,7 +53,7 @@
         <send_self>false</send_self>
         <sms_alternate/>
         <style/>
-        <subject>SOW and Quote or ROM complete for ${number}</subject>
+        <subject>Task Order generated for ${number}</subject>
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>kmeugeni</sys_created_by>
@@ -61,7 +62,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f33a0f5f1bfd6090e88587fce54bcbbf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Notify Clients Task Order generated</sys_name>
         <sys_overrides/>
         <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
@@ -70,7 +71,7 @@
         <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
         <sys_update_name>sysevent_email_action_f33a0f5f1bfd6090e88587fce54bcbbf</sys_update_name>
         <sys_updated_by>kmeugeni</sys_updated_by>
-        <sys_updated_on>2021-01-24 20:14:31</sys_updated_on>
+        <sys_updated_on>2021-02-08 13:24:43</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

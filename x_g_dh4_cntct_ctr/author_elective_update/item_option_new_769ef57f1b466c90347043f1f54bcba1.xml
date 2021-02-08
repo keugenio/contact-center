@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new">
+    <item_option_new action="DELETE">
+        <active>true</active>
+        <attributes/>
+        <cat_item display_value="Contact Center Service Request">ea73bcb91b716450347043f1f54bcbaf</cat_item>
+        <category/>
+        <choice_direction>down</choice_direction>
+        <choice_field/>
+        <choice_table/>
+        <create_roles/>
+        <default_html_value/>
+        <default_value>75faae376f489200a0b002e6eb3ee484</default_value>
+        <delete_roles/>
+        <delivery_plan/>
+        <description/>
+        <display_title>false</display_title>
+        <do_not_select_first>false</do_not_select_first>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <enable_also_request_for>false</enable_also_request_for>
+        <example_text/>
+        <field/>
+        <global>false</global>
+        <help_tag>More information</help_tag>
+        <help_text/>
+        <include_none>false</include_none>
+        <instructions/>
+        <layout>normal</layout>
+        <list_table/>
+        <lookup_label/>
+        <lookup_price/>
+        <lookup_table/>
+        <lookup_unique>false</lookup_unique>
+        <lookup_value/>
+        <macro/>
+        <mandatory>false</mandatory>
+        <map_to_field>false</map_to_field>
+        <mask_use_confirmation>false</mask_use_confirmation>
+        <mask_use_encryption>false</mask_use_encryption>
+        <name>assignment_organization</name>
+        <order>610</order>
+        <price_if_checked>0</price_if_checked>
+        <pricing_implications>false</pricing_implications>
+        <question_text>Assignment Organization</question_text>
+        <read_roles/>
+        <rec_lookup_price/>
+        <rec_price_if_checked>0</rec_price_if_checked>
+        <record/>
+        <record_producer_table/>
+        <reference>sys_user_group</reference>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <rich_text/>
+        <roles_to_use_also_request_for/>
+        <scale_max>5</scale_max>
+        <scale_min>0</scale_min>
+        <show_help>false</show_help>
+        <show_help_on_load>false</show_help_on_load>
+        <sp_widget/>
+        <summary_macro/>
+        <sys_class_name>item_option_new</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-02-07 14:22:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>769ef57f1b466c90347043f1f54bcba1</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Assignment Organization</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>item_option_new_769ef57f1b466c90347043f1f54bcba1</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-02-08 02:28:40</sys_updated_on>
+        <table/>
+        <tooltip/>
+        <type>8</type>
+        <ui_page/>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <validate_regex/>
+        <variable_name/>
+        <variable_set/>
+        <variable_width/>
+        <visibility>1</visibility>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <visible_summary>true</visible_summary>
+        <write_roles/>
+    </item_option_new>
+    <sys_translated_text action="DELETE" query="documentkey=769ef57f1b466c90347043f1f54bcba1"/>
+    <fx_price action="DELETE" query="id=769ef57f1b466c90347043f1f54bcba1"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price_if_checked</field>
+        <id>769ef57f1b466c90347043f1f54bcba1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-02-07 14:22:10</sys_created_on>
+        <sys_id>7adf7d331b866c90347043f1f54bcb05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-02-07 14:22:10</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_price_if_checked</field>
+        <id>769ef57f1b466c90347043f1f54bcba1</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-02-07 14:22:10</sys_created_on>
+        <sys_id>7adf7d331b866c90347043f1f54bcb04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-02-07 14:22:10</sys_updated_on>
+        <table>item_option_new</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</application>
+        <file_path/>
+        <instance_id>8f9833b9dbb3c0503d037f693296197b</instance_id>
+        <instance_name>dhsuscisdev2</instance_name>
+        <name>item_option_new_769ef57f1b466c90347043f1f54bcba1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new"><item_option_new action="INSERT_OR_UPDATE"><active>true</active><attributes/><cat_item display_value="Contact Center Service Request">ea73bcb91b716450347043f1f54bcbaf</cat_item><category/><choice_direction>down</choice_direction><choice_field/><choice_table/><create_roles/><default_html_value/><default_value>75faae376f489200a0b002e6eb3ee484</default_value><delete_roles/><delivery_plan/><description/><display_title>false</display_title><do_not_select_first>false</do_not_select_first><dynamic_default_value/><dynamic_ref_qual/><enable_also_request_for>false</enable_also_request_for><example_text/><field/><global>false</global><help_tag>More information</help_tag><help_text/><include_none>false</include_none><instructions/><layout>normal</layout><list_table/><lookup_label/><lookup_price/><lookup_table/><lookup_unique>false</lookup_unique><lookup_value/><macro/><mandatory>false</mandatory><map_to_field>false</map_to_field><mask_use_confirmation>false</mask_use_confirmation><mask_use_encryption>false</mask_use_encryption><name>assignment_organization</name><order>610</order><price_if_checked>0</price_if_checked><pricing_implications>false</pricing_implications><question_text>Assignment Organization</question_text><read_roles/><rec_lookup_price/><rec_price_if_checked>0</rec_price_if_checked><record/><record_producer_table/><reference>sys_user_group</reference><reference_qual/><reference_qual_condition/><rich_text/><roles_to_use_also_request_for/><scale_max>5</scale_max><scale_min>0</scale_min><show_help>false</show_help><show_help_on_load>false</show_help_on_load><sp_widget/><summary_macro/><sys_class_name>item_option_new</sys_class_name><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-02-07 14:22:10</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>769ef57f1b466c90347043f1f54bcba1</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Assignment Organization</sys_name><sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope><sys_update_name>item_option_new_769ef57f1b466c90347043f1f54bcba1</sys_update_name><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-02-08 02:28:40</sys_updated_on><table/><tooltip/><type>8</type><ui_page/><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><validate_regex/><variable_name/><variable_set/><variable_width/><visibility>1</visibility><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><visible_summary>true</visible_summary><write_roles/></item_option_new><sys_translated_text action="delete_multiple" query="documentkey=769ef57f1b466c90347043f1f54bcba1"/><fx_price action="delete_multiple" query="id=769ef57f1b466c90347043f1f54bcba1"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price_if_checked</field><id>769ef57f1b466c90347043f1f54bcba1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-02-07 14:22:10</sys_created_on><sys_id>7adf7d331b866c90347043f1f54bcb05</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-02-07 14:22:10</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_price_if_checked</field><id>769ef57f1b466c90347043f1f54bcba1</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>kmeugeni</sys_created_by><sys_created_on>2021-02-07 14:22:10</sys_created_on><sys_id>7adf7d331b866c90347043f1f54bcb04</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>kmeugeni</sys_updated_by><sys_updated_on>2021-02-07 14:22:10</sys_updated_on><table>item_option_new</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>45809613</payload_hash>
+        <record_name>Assignment Organization</record_name>
+        <reverted_from/>
+        <source>ab1d202f1b7da090e88587fce54bcbcb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-02-08 02:28:40</sys_created_on>
+        <sys_id>7c26e08c1bd2ec90347043f1f54bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1777f7835f80000001</sys_recorded_at>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-02-08 02:28:40</sys_updated_on>
+        <type>Variable</type>
+        <update_guid>f026e08c66d2ec90aedbeba6cd25f92c</update_guid>
+        <update_guid_history>f026e08c66d2ec90aedbeba6cd25f92c:45809613,b7b5604c89d2ec901606abf3f8bb5371:1253859832,dd34ec0850d2ec90b6003d815c1b89db:1498905191,99efd8487892ec90a4d326e2233c25f7:1253859832,b4c0daf3744a6c90ff9d856064331797:45809613,c3001e73c44a6c90e782194438e009be:-827850703,36df7d339b866c90e45d2e8e0a3b6f0c:45809613</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Record deleted 2021-02-07 09.36.51 PM">b00864441b16ec90347043f1f54bcbd2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-02-08 02:36:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="item_option_new">item_option_new</sys_db_object>
+        <sys_id>11908ab5d0cf4380b4139bed882a1000</sys_id>
+        <sys_metadata>769ef57f1b466c90347043f1f54bcba1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignment Organization</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_parent display_value="Contact Center Service Request">ea73bcb91b716450347043f1f54bcbaf</sys_parent>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_scope_delete display_value="">a522eceaf00f42fa93eff8cbd3852d44</sys_scope_delete>
+        <sys_update_name>item_option_new_769ef57f1b466c90347043f1f54bcba1</sys_update_name>
+        <sys_update_version display_value="item_option_new_769ef57f1b466c90347043f1f54bcba1">7c26e08c1bd2ec90347043f1f54bcb2c</sys_update_version>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-02-08 02:36:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>fires email notification reminder every 24 hours unti PMO assigned.</description>
+        <event_name>x_g_dh4_cntct_ctr.reminder_pmo_unassigne</event_name>
+        <fired_by>Flow Designer: Contact Center Service Request</fired_by>
+        <queue/>
+        <suffix>reminder_pmo_unassigned</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>kmeugeni</sys_created_by>
+        <sys_created_on>2021-01-25 16:33:14</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4be0a3e31b392490e88587fce54bcbb4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_g_dh4_cntct_ctr.reminder_pmo_unassigne</sys_name>
+        <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
+        <sys_update_name>sysevent_register_4be0a3e31b392490e88587fce54bcbb4</sys_update_name>
+        <sys_updated_by>kmeugeni</sys_updated_by>
+        <sys_updated_on>2021-01-25 16:33:14</sys_updated_on>
+        <table>sc_req_item</table>
+    </sysevent_register>
+</record_update>

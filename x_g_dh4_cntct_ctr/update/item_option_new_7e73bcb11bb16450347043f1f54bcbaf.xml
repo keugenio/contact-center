@@ -17,6 +17,7 @@
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
+        <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field>pmo</field>
         <global>false</global>
@@ -49,6 +50,8 @@
         <reference>sys_user</reference>
         <reference_qual/>
         <reference_qual_condition/>
+        <rich_text/>
+        <roles_to_use_also_request_for/>
         <scale_max>5</scale_max>
         <scale_min>0</scale_min>
         <show_help>false</show_help>
@@ -60,15 +63,15 @@
         <sys_created_on>2021-01-19 17:24:56</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>7e73bcb11bb16450347043f1f54bcbaf</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>pmo</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>PMO</sys_name>
         <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
         <sys_update_name>item_option_new_7e73bcb11bb16450347043f1f54bcbaf</sys_update_name>
         <sys_updated_by>kmeugeni</sys_updated_by>
-        <sys_updated_on>2021-01-20 04:27:16</sys_updated_on>
+        <sys_updated_on>2021-01-25 03:49:13</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
@@ -84,7 +87,7 @@
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
         <visible_summary>true</visible_summary>
-        <write_roles/>
+        <write_roles>x_g_dh4_cntct_ctr.cc_task_admin</write_roles>
     </item_option_new>
     <sys_translated_text action="delete_multiple" query="documentkey=7e73bcb11bb16450347043f1f54bcbaf"/>
     <fx_price action="delete_multiple" query="id=7e73bcb11bb16450347043f1f54bcbaf"/>

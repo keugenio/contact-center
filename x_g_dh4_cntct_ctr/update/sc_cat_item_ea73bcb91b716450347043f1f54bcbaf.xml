@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
     <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
@@ -14,7 +15,7 @@
 <p> </p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow/>
+        <flow_designer_flow display_value="Service Request">d529fc801bd6ec90347043f1f54bcb87</flow_designer_flow>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -61,7 +62,7 @@
         <sys_created_on>2021-01-19 17:24:55</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>ea73bcb91b716450347043f1f54bcbaf</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Contact Center Service Request</sys_name>
         <sys_package display_value="Contact Center" source="x_g_dh4_cntct_ctr">c5c2b4781bb1e810347043f1f54bcbcb</sys_package>
         <sys_policy/>
@@ -69,7 +70,7 @@
         <sys_scope display_value="Contact Center">c5c2b4781bb1e810347043f1f54bcbcb</sys_scope>
         <sys_update_name>sc_cat_item_ea73bcb91b716450347043f1f54bcbaf</sys_update_name>
         <sys_updated_by>kmeugeni</sys_updated_by>
-        <sys_updated_on>2021-01-21 14:10:15</sys_updated_on>
+        <sys_updated_on>2021-02-08 05:13:23</sys_updated_on>
         <template/>
         <type>item</type>
         <u_att_need/>
